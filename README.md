@@ -21,7 +21,7 @@ does some other web framework like [web.go][].
 package main
 
 import (
-	"github.com/codegangsta/martini-contrib/strip"
+	"github.com/martini-contrib/strip"
 	"github.com/codegangsta/martini"
 )
 
