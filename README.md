@@ -1,4 +1,4 @@
-# strip
+# strip [![wercker status](https://app.wercker.com/status/3d751b96bed7988092a57a4fad300442 "wercker status")](https://app.wercker.com/project/bykey/3d751b96bed7988092a57a4fad300442)
 
 [API Reference](http://godoc.org/github.com/martini-contrib/strip)
 
