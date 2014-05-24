@@ -3,7 +3,7 @@
 [API Reference](http://godoc.org/github.com/martini-contrib/strip)
 
 ## Description
-packcage `strip` modifies the URL before the requests go into the other 
+package `strip` modifies the URL before the requests go into the other 
 handlers.
 
 Currently the main function in package strip is `strip.Prefix` which provides
