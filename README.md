@@ -22,7 +22,7 @@ package main
 
 import (
 	"github.com/martini-contrib/strip"
-	"github.com/codegangsta/martini"
+	"github.com/go-martini/martini"
 )
 
 func main() {
